@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PeopleOfDelivery</string>
+
+    <string name="menu_Home">홈</string>
+    <string name="menu_Recommend">뭐먹지</string>
+    <string name="menu_Favorite">찜한가게</string>
+    <string name="menu_OrderHistory">주문내역</string>
+    <string name="menu_MyPage">My배민</string>
+</resources>

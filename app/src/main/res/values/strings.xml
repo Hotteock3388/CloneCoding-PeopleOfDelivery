@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PeopleOfCoding</string>
+    <string name="menu_home">홈</string>
+    <string name="menu_recommend">뭐먹지</string>
+    <string name="menu_favorite">찜한가게</string>
+    <string name="menu_history">주문내역</string>
+    <string name="menu_myPage">My배민</string>
+
+</resources>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menu_Home"
+        android:icon="@drawable/home_black"
+        android:title="@string/menu_Home" />
+
+    <item
+        android:id="@+id/menu_Recommend"
+        android:icon="@drawable/tv_black"
+        android:title="@string/menu_Recommend"
+        />
+
+    <item
+        android:id="@+id/menu_Favorite"
+        android:icon="@drawable/home_black"
+        android:title="@string/menu_Favorite"
+        />
+
+    <item
+        android:id="@+id/menu_OrderHistory"
+        android:icon="@drawable/home_black"
+        android:title="@string/menu_OrderHistory"
+        />
+
+    <item
+        android:id="@+id/menu_MyPage"
+        android:icon="@drawable/home_black"
+        android:title="@string/menu_MyPage"
+        />
+
+
+</menu>
